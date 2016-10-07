@@ -1,1 +1,1 @@
-#OpenJudge在线程序测评系统
+OpenJudge在线程序测评系统
