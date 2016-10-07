@@ -1,3 +1,4 @@
+// 2750 鸡兔同笼
 #include <iostream>
 using namespace std;
 
