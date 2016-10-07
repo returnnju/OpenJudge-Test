@@ -43,6 +43,7 @@ int main() {
 		else {
 			cout << " Inf";
 		}
+		
 		cout << endl;
 	}
 	
