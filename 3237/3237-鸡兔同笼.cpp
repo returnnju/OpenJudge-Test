@@ -15,7 +15,7 @@ int main() {
 				cout << number / 4 << " " << number / 2;
 			}
 			else {
-				cout << number / 4 + 1 << " " << number / 2;
+				cout << (number / 4 + 1) << " " << number / 2;
 			}
 		}
 		cout << endl;
